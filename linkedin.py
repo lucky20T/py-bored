@@ -27,8 +27,8 @@ driver = webdriver.Chrome(service=service)
 
 
 # LinkedIn login credentials
-username = 'vishalchakradhari6@example.com'  # Replace with your LinkedIn email
-password = 'PFPy@TjC80'           # Replace with your LinkedIn password
+username = ''  # Replace with your LinkedIn email
+password = ''           # Replace with your LinkedIn password
 
 # Function to log into LinkedIn
 def login():
